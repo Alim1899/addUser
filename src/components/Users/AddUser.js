@@ -42,6 +42,7 @@ const AddUser = (props) => {
         ></input>
         <Button type="submit">Add User</Button>
       </form>
+      
     </Card>
   );
 };
